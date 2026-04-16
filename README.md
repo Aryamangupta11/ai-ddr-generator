@@ -22,7 +22,8 @@ streamlit run app.py
 
 
 Demo Video
-[Loom Video](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
+## Demo Video
+[![Watch the demo](screenshots/DDR1.png)](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
 
 Screenshots
 ./screenshots/DDR1.png
