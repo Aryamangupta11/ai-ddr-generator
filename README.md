@@ -20,6 +20,7 @@ This project is an AI-powered system that converts raw inspection and thermal re
 pip install -r requirements.txt
 streamlit run app.py
 
+
 Demo Video
 [Loom Video](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
 
