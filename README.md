@@ -38,7 +38,7 @@ Designed for industrial use cases, this tool automates analysis, improves accura
 
 Click below to watch the working demo:
 
-[![▶ Watch Demo](screenshots/DDR1.png)](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
+[![▶ Watch Demo](screenshots/play.png)](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
 
 ---
 
