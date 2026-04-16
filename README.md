@@ -25,7 +25,7 @@ Demo Video
 [Loom Video](https://www.loom.com/share/93f54416375c4619b5f0653d383cf4ef)
 
 Screenshots
-screenshots/DDR1.png)
+./screenshots/DDR1.png
 ![DDR Output](screenshots/DDR2.png)
 ![DDR Output](screenshots/DDR3.png)
 ![DDR Output](screenshots/DDR4.png)
